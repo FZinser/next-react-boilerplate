@@ -1,0 +1,39 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/nayarificador/enhancer": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.94e6ffc7e4a02ae21a6b.js",
+      "static/runtime/main-81ca5161bd2efe186a36.js"
+    ],
+    "/nayarificador": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.94e6ffc7e4a02ae21a6b.js",
+      "static/css/styles.7121778b.chunk.css",
+      "static/chunks/styles.2a1c8120e29db95f2c15.js",
+      "static/runtime/main-81ca5161bd2efe186a36.js"
+    ],
+    "/zinserificador/enhancer": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.94e6ffc7e4a02ae21a6b.js",
+      "static/runtime/main-81ca5161bd2efe186a36.js"
+    ],
+    "/zinserificador": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.94e6ffc7e4a02ae21a6b.js",
+      "static/css/styles.7121778b.chunk.css",
+      "static/chunks/styles.2a1c8120e29db95f2c15.js",
+      "static/runtime/main-81ca5161bd2efe186a36.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.94e6ffc7e4a02ae21a6b.js",
+      "static/runtime/main-81ca5161bd2efe186a36.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.94e6ffc7e4a02ae21a6b.js",
+      "static/runtime/main-81ca5161bd2efe186a36.js"
+    ]
+  }
+}

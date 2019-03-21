@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{236:function(e,t,n){"use strict";n.r(t);var a=n(79),o=Object(a.a)(Object(a.b)("test","updateTest","Hello World"));t.default=o},238:function(e,t,n){__NEXT_REGISTER_PAGE("/nayarificador/enhancer",function(){return e.exports=n(236),{page:e.exports.default}})}},[[238,1,0]]]);

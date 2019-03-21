@@ -1,0 +1,11 @@
+body {
+  background-color: #5f9ea0;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #008000;
+  }
+}
+
+
+/*# sourceMappingURL=styles.chunk.css.map*/

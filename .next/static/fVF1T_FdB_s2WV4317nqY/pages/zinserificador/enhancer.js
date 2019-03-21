@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{207:function(e,t,n){__NEXT_REGISTER_PAGE("/zinserificador/enhancer",function(){return e.exports=n(237),{page:e.exports.default}})},237:function(e,t,n){"use strict";n.r(t);var o=n(79),r=Object(o.a)(Object(o.b)("test","updateTest","Hello World"));t.default=r}},[[207,1,0]]]);
